@@ -21,13 +21,21 @@ All options are listed for Uber, Lyft, Taxi, LA Metro, Walk/Bike
 Upcoming Tasks
 ==============
 Get the app working properly with fake data
+
 Make sure app runs smoothly with fake data
+
 Have app work with live data once fake data works
+
 Have option to click on uber, lyft
+
 Have option to link to google maps to get directions
+
 Have option to call cab 
+
 Have option to get list of times for metro
+
 Limit radius to LA Area for now
+
 Allow user to Set Location to LA, SF, NYC etc.
 
 Future
