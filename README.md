@@ -6,11 +6,17 @@ An iOS app built on Swift that compares Uber, Lyft, Cabs, Buses, Walking and Cyc
 Completed so far
 =================
 GUI - Aesthetics look good
+
 Functionality- Needs improvement
+
 User can add source and destination
+
 User has option to add passengers
+
 User has option to sort by Fastest, Cheapest, and Shortest route options (a combination of the three)
+
 All options are listed for Uber, Lyft, Taxi, LA Metro, Walk/Bike
+
 
 Upcoming Tasks
 ==============
